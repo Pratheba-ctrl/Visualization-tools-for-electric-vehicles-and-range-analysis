@@ -7,3 +7,6 @@ story public link-https://public.tableau.com/views/Story1_16813654844020/storyof
 
 video demonstration link-visualization tool for electric vehicles and range analysis
 demo link -https://drive.google.com/file/d/1efjIukNdvXzGGwdeZTpldlHpkWBuhV68/view?usp=sharing
+
+
+web page link-C:\Users\ELCOT\AppData\Local\Temp\Temp2_Electric vehicle Tableau-20230413T092252Z-001.zip\Electric vehicle Tableau\index.html
